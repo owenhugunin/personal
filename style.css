@@ -1,0 +1,59 @@
+header {
+background-color: #333;
+color: #fff;
+padding: 10px 0;
+}
+
+nav ul {
+list-style: none;
+display: flex;
+justify-content: center;
+}
+nav li {
+margin: 0 20px;
+}
+nav a {
+text-decoration: none;
+color: #fff;
+}
+
+#about{
+    margin-top: 20px;
+    text-align: center;
+}
+
+.container{
+    margin-top: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+#profilePic{
+    max-width: 50%;
+    border-radius:10%;
+}
+
+#projectPic{
+    max-width: 75%;
+    border-radius:10%;
+
+}
+
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+background-image: linear-gradient(to bottom right, rgb(113, 243, 38), rgb(0, 123, 255));
+}
+
+footer {
+text-align: center;
+padding: 10px;
+background-color: #333;
+color: #fff;
+}
+
+#projects{
+    text-align: center;
+    margin-bottom: 0;
+}
